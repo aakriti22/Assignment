@@ -1,0 +1,22 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Frontend assignment",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakriti22/Assignment.git"
+  },
+  "author": "Aakriti Rampal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakriti22/Assignment/issues"
+  },
+  "homepage": "https://github.com/aakriti22/Assignment#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
